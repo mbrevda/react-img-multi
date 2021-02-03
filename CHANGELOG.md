@@ -1,3 +1,7 @@
+# 4.0.4
+
+- Add cache invalidation. We can invalidate the cache on a per image basis.
+
 # 4.0.3
 
 - Update peerDependencies in package.json
